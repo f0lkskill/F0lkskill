@@ -2,13 +2,6 @@
 
 # 👋 Hi, I'm f0lkskill
 
-**一个普通的桌面端轻量级程序开发者**
-
-[![GitHub followers](https://img.shields.io/github/followers/f0lkskill?label=Followers&style=social)](https://github.com/f0lkskill)
-[![GitHub Stars](https://img.shields.io/github/stars/f0lkskill/FaustLauncher?label=Stars&style=social)](https://github.com/f0lkskill/FaustLauncher)
-
-</div>
-
 ---
 
 ## 🧑‍💻 关于我
