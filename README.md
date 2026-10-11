@@ -1,10 +1,4 @@
-<div align="center">
 
-# 👋 Hi, I'm f0lkskill
-
-</div>
-
----
 
 ## 🧑‍💻 关于我
 
