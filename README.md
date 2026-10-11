@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm f0lkskill
 
-**桌面端轻量级程序开发者 · Python 全栈 · 原生前端信徒**
+**一个普通的桌面端轻量级程序开发者**
 
 [![GitHub followers](https://img.shields.io/github/followers/f0lkskill?label=Followers&style=social)](https://github.com/f0lkskill)
 [![GitHub Stars](https://img.shields.io/github/stars/f0lkskill/FaustLauncher?label=Stars&style=social)](https://github.com/f0lkskill/FaustLauncher)
@@ -13,35 +13,10 @@
 
 ## 🧑‍💻 关于我
 
-你好，我只有两岁！😄
-
 我专注于 **桌面端与轻量级 Web 程序** 的开发，主技术栈是 **Python 后端 + 原生 HTML/JS 前端**。
 
-我的能力仍然有所不足，希望我能在大型项目中逐渐成长，直到我真的有能力能够独当一面。
-我希望我的所有项目都能够做到真正的轮椅，一键实现全部的功能，不把繁琐留给用户，功能多和杂绝对不能是交互体验糟糕的充分条件。
-
----
-
-## 🛠️ 我的常用技术栈
-
-- **Python** — 标准库 · Bottle · requests · Pillow · PyInstaller
-- **桌面应用** — pywebview · WebView2 · 多进程窗口模型
-- **前端** — 原生 HTML/CSS/JS · CSS 变量 · 无框架架构
-- **Web 后端** — WSGI · 原子写 · HMAC 签名 · 会话与权限
-- **逆向工程** — capstone · pefile · pythonnet · UnityPy
-- **工程化** — 自动更新 · 资源包分发 · 多源回退 · 诊断工具
-
----
-
-## 🚀 我的主力项目
-
-### 🖥️ FaustLauncher — 桌面端
-《边狱巴士》一体化启动器，为玩家提供汉化、美化、Mod 管理的一键启动流水线。
-
-### 🌐 FaustLauncherWeb — 云端后端
-上述启动器的云端后端与官网，目前承载 **2600+ 用户、40+ Mod、21 万+ 次接口调用**。
-
-> 两个项目共享同一套哲学：**把复杂度留给自己，把轻便留给用户。**
+- 我的能力仍然有所不足，希望我能在大型项目中逐渐成长，直到我真的有能力能够独当一面。
+- 我希望我的所有项目都能够做到真正的轮椅，一键实现全部的功能，不把繁琐留给用户，功能多和杂绝对不能是交互体验糟糕的充分条件。
 
 ---
 
@@ -57,6 +32,21 @@
 </table>
 
 </div>
+
+---
+
+## 🚀 我的主力项目
+
+### 🖥️ FaustLauncher — 桌面端
+《边狱巴士》一体化启动器，为玩家提供汉化、美化、Mod 管理的一键启动流水线。
+
+### 🌐 FaustLauncherWeb — 云端后端
+上述启动器的云端后端与官网，目前承载 **2600+ 用户、40+ Mod、21 万+ 次接口调用**。
+
+> 两个项目共享同一套哲学：**把复杂度留给自己，把轻便留给用户。**
+
+---
+
 <div align="center">
 
 <table>
