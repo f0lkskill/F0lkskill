@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td>如果我的项目帮到了你，欢迎通过爱发电支持持续开发：</td>
-    <td><a href="https://afdian.com/a/f0lkskill"><img src="https://img.shields.io/badge/爱发电-赞助支持-ff69b4?style=for-the-badge" alt="爱发电"></a></td>
+    <td><a href="https://ifdian.net/a/folkskill"><img src="https://img.shields.io/badge/爱发电-赞助支持-ff69b4?style=for-the-badge" alt="爱发电"></a></td>
   </tr>
 </table>
 
