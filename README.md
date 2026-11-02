@@ -11,11 +11,14 @@
 ## 📊 我的信息
 
 <div align="center">
-
-<table>
+<table border="0">
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=f0lkskill&show_icons=true&theme=radical&hide_border=true&count_private=true" /></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=f0lkskill&layout=compact&theme=radical&hide_border=true" /></td>
+    <td valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api?username=f0lkskill&show_icons=true&theme=radical&hide_border=true&count_private=true&height=165&bg_color=141321" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=f0lkskill&layout=compact&theme=radical&hide_border=true&height=165&bg_color=141321" />
+    </td>
   </tr>
 </table>
 
